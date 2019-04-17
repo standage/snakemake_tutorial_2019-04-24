@@ -1,0 +1,8 @@
+name: snakemake-demo-environment
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.6
+  - snakemake=5.4
+  - pandas=0.24
