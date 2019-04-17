@@ -1,0 +1,2 @@
+snakemake>=5.0
+pandas>=0.23
